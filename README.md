@@ -31,7 +31,7 @@
 ###
 
 
- ![Snake animation](https://github.com/JoaoVdeCarvalho/JoaoVdeCarvalho/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
 
