@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bernardo Augusto Picoli, I'm from Brazil 🇧🇷 and I am a student. 👨‍💻</p>
+<p align="left">My name is João Vitor de Carvalho, I'm from Brazil 🇧🇷 and I am a student. 👨‍💻</p>
 
 ###
 
